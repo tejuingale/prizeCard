@@ -1,0 +1,148 @@
+.cardOne {
+    display: inline-block;
+    background-color: rgb(252, 250, 250);
+    border: 1px solid gray;
+    border-radius: 10px;
+    margin-top: 100px;
+    margin-left: 65px;
+  
+    height: 290px;
+    width: 230px;
+  }
+  .headingOne {
+    text-align: center;
+    background-color: #10ac84;
+    margin: 0;
+    padding: 10px;
+    color: white;
+    font-size: larger;
+    border-radius: 9px 9px 0px 0px;
+    font-weight: bolder;
+    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+      "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  }
+  .containerOne {
+    margin-left: 25px;
+  }
+  ul.listOne {
+    list-style: none;
+    display: inline-block;
+    text-align: left;
+  }
+  .dollerOne {
+    text-align: center;
+  }
+  
+  .bottomDivOne {
+    background-color: #10ac84;
+    text-align: center;
+    border-radius: 5px;
+    margin-left: 19px;
+    margin-right: 19px;
+  }
+  .bottomHeadingOne {
+    padding: 5px;
+    color: white;
+    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+      "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  }
+  
+  .cardTwo {
+    display: inline-block;
+    background-color: rgb(252, 250, 250);
+    border: 1px solid gray;
+    border-radius: 10px;
+    margin-left: 20px;
+    position: relative;
+    bottom: 30px;
+  
+    height: 290px;
+    width: 230px;
+  }
+  .headingTwo {
+    text-align: center;
+  
+    background-color: #c42b0d;
+    margin: 0;
+    padding: 10px;
+    color: white;
+    font-size: larger;
+    border-radius: 9px 9px 0px 0px;
+    font-weight: bolder;
+    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+      "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  }
+  .containerTwo {
+    margin-left: 25px;
+  }
+  ul.listTwo {
+    list-style: none;
+    display: inline-block;
+    text-align: left;
+  }
+  .dollerTwo {
+    text-align: center;
+  }
+  
+  .bottomDivTwo {
+    background-color: #10ac84;
+    text-align: center;
+    margin-top: 0px;
+    border-radius: 5px;
+    margin-left: 19px;
+    margin-right: 19px;
+  }
+  .bottomHeadingTwo {
+    padding: 5px;
+    color: white;
+    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+      "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  }
+  
+  .cardThree {
+    display: inline-block;
+    background-color: rgb(252, 250, 250);
+    border: 1px solid gray;
+    border-radius: 10px;
+    margin-left: 20px;
+    height: 290px;
+    width: 230px;
+  }
+  .headingThree {
+    text-align: center;
+    background-color: #10ac84;
+    margin: 0;
+    padding: 10px;
+    color: white;
+    font-size: larger;
+    border-radius: 9px 9px 0px 0px;
+    font-weight: bolder;
+    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+      "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  }
+  .containerThree {
+    margin-left: 25px;
+  }
+  ul.listThree {
+    list-style: none;
+    display: inline-block;
+    text-align: left;
+  }
+  .dollerThree {
+    text-align: center;
+  }
+  
+  .bottomDivThree {
+    background-color: #10ac84;
+    text-align: center;
+    margin-top: 0px;
+    border-radius: 4px;
+    margin-left: 19px;
+    margin-right: 19px;
+  }
+  .bottomHeadingThree {
+    padding: 5px;
+    color: white;
+    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+      "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  }
