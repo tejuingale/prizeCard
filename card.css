@@ -1,0 +1,252 @@
+.mainbox{
+    height: 620px;
+    width: 270px;
+    background-color: hotpink;
+    border-color: black;
+   
+    display: inline-block;
+}
+.secondbox{
+    height: 620px;
+    width: 270px;
+    background-color: hotpink;
+   position: relative;
+   left: 271px;
+   bottom: 707px;
+ 
+   
+    
+}
+.contaner1{
+    height: 120px;
+    width: 270px;
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.938);
+    padding-top: 20px;
+    margin-bottom: 0px;
+}
+.contaner2{
+    height: 40px;
+    width: 270px;
+    background-color: rgb(76, 204, 76);
+    margin-top: 0px;
+    position: relative;
+    bottom: 18px;
+}
+#para1{
+text-align: center;
+padding-top: 13px;
+font-size: large;
+
+color: white;
+}
+.contaner3{
+    height: 70px;
+    width: 270px;
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.938);
+    padding-top: 15px;
+    margin-bottom: 10px;
+    position: relative;
+    bottom: 18px;
+}
+#para2{
+    text-align: center;
+}
+.contaner4{
+    height: 40px;
+    width: 270px;
+    background-color: rgb(76, 204, 76);
+    margin-top: 0px;
+    position: relative;
+    bottom: 37px;
+}
+#para3{
+    text-align: center;
+    padding-top: 13px;
+    font-size: large;
+    color: white;
+    }
+    .contaner5{
+        height: 60px;
+        width: 270px;
+        text-align: center;
+        background-color: rgba(255, 255, 255, 0.938);
+        padding-top: 15px;
+        margin-bottom: 10px;
+        position: relative;
+        bottom: 37px;
+    }
+    #para4{
+        text-align: center;
+    }
+    .contaner6{
+        height: 40px;
+        width: 270px;
+        background-color: rgb(76, 204, 76);
+        margin-top: 0px;
+        position: relative;
+        bottom: 55px;
+    }
+    #para5{
+        text-align: center;
+        padding-top: 13px;
+        font-size: large;
+        color: white;
+        }
+        .contaner7{
+            height: 60px;
+            width: 270px;
+            text-align: center;
+            background-color: rgba(255, 255, 255, 0.938);
+            padding-top: 15px;
+            margin-bottom: 10px;
+            position: relative;
+            bottom: 56px;
+        }
+        .contaner8{
+            height: 40px;
+            width: 270px;
+            background-color: rgb(76, 204, 76);
+            margin-top: 0px;
+            position: relative;
+            bottom: 74px;
+        }
+        #para7{
+            text-align: center;
+            padding-top: 13px;
+            font-size: large;
+            color: white;
+            }
+        .contaner9{
+            height: 78px;
+            width: 270px;
+            text-align: center;
+            background-color: rgba(255, 255, 255, 0.938);
+            padding-top: 12px;
+            margin-bottom: 10px;
+            position: relative;
+            bottom: 75px;
+        }
+        #para7{
+            text-align: center;
+            padding-top: 13px;
+            font-size: large;
+            color: white;
+            }
+            .contaner10{
+                height: 120px;
+                width: 270px;
+                text-align: center;
+                background-color: rgba(255, 255, 255, 0.938);
+                padding-top: 20px;
+                margin-bottom: 0px;
+            }
+            .contaner11{
+                height: 40px;
+                width: 270px;
+                background-color: orangered;
+                margin-top: 0px;
+                position: relative;
+                bottom: 18px;
+            }
+            #para9{
+            text-align: center;
+            padding-top: 13px;
+            font-size: large;
+            
+            color: white;
+            }
+            .contaner12{
+                height: 70px;
+                width: 270px;
+                text-align: center;
+                background-color: rgba(255, 255, 255, 0.938);
+                padding-top: 8px;
+                margin-bottom: 10px;
+                position: relative;
+                bottom: 18px;
+                padding-bottom: 7px;
+               
+            }
+            #para10{
+                text-align: center;
+            }
+            .contaner13{
+                height: 40px;
+                width: 270px;
+                background-color: orangered;
+                margin-top: 0px;
+                position: relative;
+                bottom: 37px;
+            }
+            #para11{
+                text-align: center;
+                padding-top: 13px;
+                font-size: large;
+                color: white;
+                }
+                .contaner14{
+                    height: 60px;
+                    width: 270px;
+                    text-align: center;
+                    background-color: rgba(255, 255, 255, 0.938);
+                    padding-top: 15px;
+                    margin-bottom: 10px;
+                    position: relative;
+                    bottom: 37px;
+                }
+                #para12{
+                    text-align: center;
+                }
+                .contaner15{
+                    height: 41px;
+                    width: 270px;
+                    background-color: orangered;
+                    margin-top: 0px;
+                    position: relative;
+                    bottom: 55px;
+                }
+                #para13{
+                    text-align: center;
+                    padding-top: 13px;
+                    font-size: large;
+                    color: white;
+                    }
+                    .contaner16{
+                        height: 60px;
+                        width: 270px;
+                        text-align: center;
+                        background-color: rgba(255, 255, 255, 0.938);
+                        padding-top: 15px;
+                        margin-bottom: 10px;
+                        position: relative;
+                        bottom: 56px;
+                    }
+                    .contaner17{
+                        height: 40px;
+                        width: 270px;
+                        background-color: orangered;
+                        margin-top: 0px;
+                        position: relative;
+                        bottom: 74px;
+                    }
+                    #para14{
+                        text-align: center;
+                    }
+                    .contaner18{
+                        height: 78px;
+                        width: 270px;
+                        text-align: center;
+                        background-color: rgba(255, 255, 255, 0.938);
+                        padding-top: 12px;
+                        margin-bottom: 10px;
+                        position: relative;
+                        bottom: 75px;
+                    }
+                    #para15{
+                        text-align: center;
+                        padding-top: 13px;
+                        font-size: large;
+                        color: white;
+                        }
